@@ -24,5 +24,8 @@
 
 *Observe the values for different parameters*
 
-**Train accuracy - **99.97%
-**Test accuracy - **99.85% 
+**Train accuracy -** 99.97%
+
+**Test accuracy -**  99.85%
+
+**CNN error -** 3.085%
